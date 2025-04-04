@@ -3,7 +3,7 @@
     <div class="card">
       <div class="profile-header">
         <div class="cover-photo"></div>
-        <div class="profile-photo">АИ</div>
+        <div class="profile-photo">GT</div>
       </div>
 
       <div class="profile-info">
@@ -103,10 +103,10 @@ export default {
   data() {
     return {
       profileData: {
-        name: 'Александр Иванов',
+        name: 'Титов Глеб',
         headline: 'Middle Frontend Developer (Vue.js) | Разработка CRM-систем',
         location: 'Москва, Россия',
-        email: 'alexander@example.com',
+        email: 'Glebtitan1729@mail.ru',
         phone: '+7 (977) 330-66-54',
         about: 'Frontend-разработчик с опытом создания веб-приложений на Vue.js. Специализируюсь на разработке CRM-систем для сферы услуг, подобных YClients. Создаю удобные и эффективные пользовательские интерфейсы, решающие бизнес-задачи. Учусь на 3 курсе университета, постоянно совершенствую навыки и изучаю новые технологии.',
 
