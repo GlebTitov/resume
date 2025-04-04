@@ -1,5 +1,5 @@
 <script setup>
-import LinkedInResume from '../../resume/src/components/LinkedInResume.vue'
+import LinkedInResume from '@/components/LinkedInResume.vue'
 </script>
 
 <template>
